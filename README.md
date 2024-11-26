@@ -6,7 +6,7 @@ This project is a team assignment for the "Computer Games" course, offered in th
 ## Course Information
 - **Institution:** [University of Piraeus](https://www.unipi.gr/en/home/)
 - **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
-- **Course:** Computer Games (2023)
+- **BSc course:** Computer Games (2023)
 - **Semester:** 7th
 
 ## Technologies Used
@@ -73,7 +73,7 @@ The game is set in 1995, in Texas, and follows a day in the life of a farmer, Al
 </table>
 
 ## Acknowledgments
-This project was developed as part of the "Computer Games" course at the University of Piraeus. Contributions and feedback are always welcome!
+This project was developed as part of the "Computer Games" BSc course at the University of Piraeus. Contributions and feedback are always welcome!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
