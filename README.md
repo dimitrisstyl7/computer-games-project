@@ -1,18 +1,15 @@
 # Computer Games (2023) - Quest Explorer
 
 ### **Project Overview**
-
 This project is a team assignment for the "Computer Games" course, offered in the 7th semester of the 2023 academic year at the University of Piraeus, Department of Informatics. The project is a Unity 3D game with basic features, such as an entry screen, in-game menus, and HUD elements. The game simulates the daily life of a farmer named Alex.
 
 ## Course Information
-
 - **Institution:** [University of Piraeus](https://www.unipi.gr/en/home/)
 - **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Computer Games (2023)
 - **Semester:** 7th
 
 ## Technologies Used
-
 - C#
 - Unity
 
@@ -21,7 +18,6 @@ This project is a team assignment for the "Computer Games" course, offered in th
 The game is set in 1995, in Texas, and follows a day in the life of a farmer, Alex, as he deals with daily challenges on his farm. The game features three different maps representing different stages of Alex's journey to fix a problem on his farm. Along the way, Alex meets friends and family who help him overcome obstacles and achieve his goals. The game offers a warm, nostalgic experience, touching on themes such as friendship and connection with the past.
 
 ## **Development Phases**
-
 **Analysis**:
 - The team decided early on the basic storyline of the game.
 - After brainstorming, the story chosen was "a day in the life of a farmer named Alex."
@@ -43,7 +39,6 @@ The game is set in 1995, in Texas, and follows a day in the life of a farmer, Al
 - **City**: Added moving cars and NPCs with predefined paths using NavMeshPath, and unique interactions when the player approaches or looks at certain NPCs using RayCast.
 
 ## Documentation and Resources
-
 - Full project details can be found in the [Project-documentation.pdf](./docs/Project-documentation.pdf)
 - A small presentation can be found in the: [Project-presentation.pdf](./docs/Project-presentation.pdf)
 - A detailed walkthrough video is available: [Project-video.mp4](./video/Project-video.mp4)
@@ -68,7 +63,6 @@ The game is set in 1995, in Texas, and follows a day in the life of a farmer, Al
   ![City 4](./images/city_4.png)
 
 ## Contributors
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/thkox"><img src="https://avatars.githubusercontent.com/u/79880468?v=4" width="100px;" alt="Theodoros Koxanoglou"/><br /><sub><b>Theodoros Koxanoglou</b></sub></a><br /></td>
@@ -78,6 +72,8 @@ The game is set in 1995, in Texas, and follows a day in the life of a farmer, Al
   </tr>
 </table>
 
-## License
+## Acknowledgments
+This project was developed as part of the "Computer Games" course at the University of Piraeus. Contributions and feedback are always welcome!
 
+## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
